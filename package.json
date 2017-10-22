@@ -1,6 +1,6 @@
 {
   "name": "pon-task-cron",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Cron task for pon",
   "main": "lib",
   "browser": "shim/browser",
